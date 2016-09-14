@@ -14,6 +14,7 @@ namespace Cars_MVC.Models
         public string Model { get; set; }
         public decimal Price { get; set; }
         public double Rating { get; set; }
+        public double MPG { get; set; }
 
     }
 }
